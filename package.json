@@ -1,0 +1,33 @@
+{
+  "name": "mrshas-currency-converter",
+  "version": "1.0.0",
+  "description": "This is a CLI based Currency Converter",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mrshas-currency-converter": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "cli",
+    "mrshas",
+    "typescript",
+    "javascript"
+  ],
+  "author": "mrshas",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
