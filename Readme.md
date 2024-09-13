@@ -32,7 +32,7 @@ ___________________
 1. **Clone this repository to your local directory:**
 
     ```
-    git clone https://github.com/yourusername/currency-converter-cli.git
+    git clone https://github.com/HasnainDevMaster/CLI-Currency-Converter.git
     ```
 **Note:**
 
